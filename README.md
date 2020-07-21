@@ -1,6 +1,8 @@
 # glados
 穿墙术
+======
 注册地址：
+-----
 1、打开 https://github.com/glados-network/GLaDOS ，找到[Register]，打开链接，填写邮箱 在邮箱点击小字发送验证码到邮箱  打开邮箱获取验证码，验证后进行登录使用下面的激活码进行激活。
 
 2、输入激活码QJBJI-XRP7S-GN471-QFO4Q，进行激活，获得3天试用。
@@ -8,6 +10,7 @@
 3、每天手动进行checkin一次，能增加一天。
 
 脚本功能：
+-----
 1、通过Github Action自动定时运行checkin.py脚本。
 
 2、通过cookies自动登录（https://glados.rocks/console/checkin)，脚本会自动进行checkin。
@@ -15,6 +18,7 @@
 3、然后通过“Server酱”（http://sc.ftqq.com/3.version)，自动发通知到微信上。
 
 食用姿势：
+-----
 先“Fork”本仓库。
 
 注册GLaDOS，方法见上。
