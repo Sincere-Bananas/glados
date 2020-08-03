@@ -1,13 +1,13 @@
 import requests,json,os
 
 # server酱开关，填off不开启(默认)，填on同时开启cookie失效通知和签到成功通知
-sever = os.environ["SERVE"]
+sever = os.environ["off"]
 
 # 填写server酱sckey,不开启server酱则不用填
 sckey = os.environ["SCKEY"]
 
 # 填入glados账号对应cookie
-cookie = os.environ["COOKIE"]
+cookie = os.environ["_ga=GA1.2.236396783.1596418830; _gid=GA1.2.269476057.1596418830; _gat_gtag_UA_104464600_2=1"]
 
 
 def start():    
